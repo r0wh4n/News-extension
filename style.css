@@ -1,0 +1,78 @@
+body {
+    width: 500px;
+    display:block;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(58, 25, 25);
+    font-size: 2.5rem;
+    text-align: center;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+label {
+    color: rgb(58, 25, 25);
+    cursor: default;
+    width: 500px;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+input {
+    cursor: text;
+    margin-top: 10px;
+    writing-mode: horizontal-tb !important;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-align: start;
+
+}
+
+.center-block {
+    display: block;
+    margin-top: 10px;
+    /* margin-left: 210px; */
+    text-align: center;
+  }
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+    cursor: default;
+    width: 500px;
+    /* text-align: center; */
+    font-size: 1.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+    color: rgb(0, 0, 0);
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+    cursor: default;
+    width: 500px;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+    color: rgb(255, 255, 255);
+}
+
+a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+    cursor: default;
+    width: 500px;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+    color: rgb(0, 0, 0);
+}
