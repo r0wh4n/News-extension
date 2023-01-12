@@ -1,1 +1,3 @@
 # News-extension
+
+##This is a news extension that allows the user to search for a specific topic and returns a list of 5 related news articles. The extension utilizes web scraping techniques to gather the news articles from various sources and presents them to the user in a clean and easy-to-read format. The user can search for any topic of their choice and the extension will return the most relevant and recent articles. The extension is built with technologies such as HTML, CSS, JavaScript, and web scraping libraries. The goal of this project is to provide users with a quick and efficient way to stay updated on the latest news and developments on a specific topic.
